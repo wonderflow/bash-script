@@ -1,0 +1,14 @@
+git submodule add git@10.10.103.47:cf-services.git src/services
+git submodule add git@10.10.103.47:tools.git src/tools
+git submodule add git@10.10.103.47:vblob-src.git src/vblob_src
+git submodule add git@10.10.103.47:acm.git src/acm
+git submodule add git@10.10.103.47:dea.git src/dea
+git submodule add git@10.10.103.47:dea-next.git src/dea_next
+git submodule add git@10.10.103.47:health-manager-next.git src/health_manager_next
+git submodule add git@10.10.103.47:router.git src/router
+git submodule add git@10.10.103.47:stager.git src/stager
+git submodule add git@10.10.103.47:warden.git src/warden
+git submodule add git@10.10.103.47:services-warden.git src/services_warden
+git submodule add git@10.10.103.47:cloud-controller.git src/cloud_controller
+git submodule add git@10.10.103.47:cloud-controller-ng.git src/cloud_controller_ng
+git submodule add git@10.10.103.47:tests.git src/tests
